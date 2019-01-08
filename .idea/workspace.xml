@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10dcf555-e870-4fa3-9fb8-6195cc44b659" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="t1_sim.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pro2/t1_sim.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MIPSsim.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro2/MIPSsim.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="766" column="20" selection-start-line="766" selection-start-column="20" selection-end-line="766" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="t1_dis.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro2/t1_dis.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="t1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro2/t1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pro2_Scoreboarding.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="467" column="27" lean-forward="true" selection-start-line="467" selection-start-column="27" selection-end-line="467" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="disassembly.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pro2/disassembly.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IF_Unit_wait</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pro2/pro2_Scoreboarding.py" />
+        <option value="$PROJECT_DIR$/pro2/MIPSsim.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="463" />
+    <option name="width" value="1464" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pro2_Scoreboarding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pro2_Scoreboarding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pro2_Scoreboarding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pro2_Scoreboarding" type="462c0819:PsiDirectoryNode" />
+              <item name="pro2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\machine_learning\python_project\Pro2_Scoreboarding\pro2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\machine_learning\python_project\Pro2_Scoreboarding\pro2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MIPSsim">
+    <configuration name="MIPSsim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pro2_Scoreboarding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\some_install\python_learning_install\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro2/MIPSsim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Scoreboarding" type="PythonConfigurationType" factoryName="Python">
+      <module name="Pro2_Scoreboarding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro2/pro2_Scoreboarding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Scoreboarding" />
+      <item itemvalue="Python.MIPSsim" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MIPSsim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10dcf555-e870-4fa3-9fb8-6195cc44b659" name="Default" comment="" />
+      <created>1543553347639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543553347639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="371" y="0" width="1171" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17250673" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23748212" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.22881356" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pro2/MIPSsim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2492">
+          <caret line="651" column="19" selection-start-line="651" selection-start-column="19" selection-end-line="651" selection-end-column="19" />
+          <folding>
+            <element signature="e#550#611#0" />
+            <element signature="e#828#5657#0" />
+            <element signature="e#5697#6308#0" />
+            <element signature="e#6345#6648#0" />
+            <element signature="e#6680#7902#0" />
+            <element signature="e#7950#8704#0" />
+            <element signature="e#8736#11053#0" />
+            <element signature="e#11084#12093#0" />
+            <element signature="e#12125#12228#0" />
+            <element signature="e#12284#15517#0" />
+            <element signature="e#18814#19906#0" />
+            <element signature="e#19932#20780#0" />
+            <element signature="e#20812#24734#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/MIPSsim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16940">
+          <caret line="752" lean-forward="true" selection-start-line="752" selection-end-line="752" />
+          <folding>
+            <element signature="e#550#611#0" />
+            <element signature="e#828#5657#0" />
+            <element signature="e#5697#6308#0" />
+            <element signature="e#6345#6648#0" />
+            <element signature="e#6680#7902#0" />
+            <element signature="e#7950#8704#0" />
+            <element signature="e#8736#11053#0" />
+            <element signature="e#11084#12093#0" />
+            <element signature="e#12125#12228#0" />
+            <element signature="e#12284#15517#0" />
+            <element signature="e#18814#19906#0" />
+            <element signature="e#19932#20780#0" />
+            <element signature="e#20812#24734#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9912">
+          <caret line="354" column="40" lean-forward="true" selection-start-line="354" selection-start-column="40" selection-end-line="354" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3080">
+          <caret line="339" column="51" selection-start-line="339" selection-start-column="51" selection-end-line="339" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5712">
+          <caret line="350" column="7" lean-forward="true" selection-start-line="350" selection-start-column="7" selection-end-line="350" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/disassembly1.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/simulation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2408">
+          <caret line="86" column="17" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8232">
+          <caret line="294" column="49" lean-forward="true" selection-start-line="294" selection-start-column="49" selection-end-line="294" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/disassembly1.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/simulation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2408">
+          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6440">
+          <caret line="230" column="16" selection-start-line="230" selection-start-column="16" selection-end-line="230" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/disassembly1.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/simulation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2156">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5432">
+          <caret line="194" column="70" selection-start-line="194" selection-start-column="70" selection-end-line="194" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/disassembly1.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/simulation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2156">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/simulation111.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/simulation11188.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/disassembly188.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/disassembly1.txt" />
+    <entry file="file://$PROJECT_DIR$/pro2/simulation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/t1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/disassembly.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/pro2_Scoreboarding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="467" column="27" lean-forward="true" selection-start-line="467" selection-start-column="27" selection-end-line="467" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/MIPSsim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="766" column="20" selection-start-line="766" selection-start-column="20" selection-end-line="766" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/t1_dis.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pro2/t1_sim.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
